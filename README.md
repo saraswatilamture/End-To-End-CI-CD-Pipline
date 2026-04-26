@@ -2,6 +2,8 @@
 End-To-End CI/CD Pipline
 ![CI/CD Pipeline](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*suSrlaPOUQfQWoGgAi85HQ.png)
 
+
+
 Prerequisites:
 
 Java application code hosted on a Git repository
@@ -57,4 +59,7 @@ Steps:
 
 7. Run the Jenkins pipeline:
    7.1 Trigger the Jenkins pipeline to start the CI/CD process for the Java application.  
-   7.2 Monitor the pipeline stages and fix any issues that arise.  
+   7.2 Monitor the pipeline stages and fix any issues that arise.
+
+
+   This end-to-end Jenkins pipeline will automate the entire CI/CD process for a Java application, from code checkout to production deployment, using popular tools like SonarQube, Argo CD, Helm, and Kubernetes.
