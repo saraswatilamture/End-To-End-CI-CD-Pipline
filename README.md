@@ -3,16 +3,13 @@ End-To-End CI/CD Pipline
 ![CI/CD Pipeline](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*suSrlaPOUQfQWoGgAi85HQ.png)
 
 
+## 📋 Prerequisites
 
-
-Prerequisites:
-
-Java application code hosted on a Git repository
-Jenkins server
-Kubernetes cluster
-Helm package manager
-Argo CD
-
+- Java application code hosted on a Git repository  
+- Jenkins server  
+- Kubernetes cluster  
+- Helm package manager  
+- Argo CD  
 
 Steps:
 
